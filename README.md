@@ -1,1 +1,1 @@
-My first Readme
+shell navigation basics
